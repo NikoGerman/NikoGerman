@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi folks!
+### student at LMU Munich
+### statistics and data science major
+### economics minor
+### currently working on my R and Python skills
+### more to come!
 
 <!--
 **NikoGerman/NikoGerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
