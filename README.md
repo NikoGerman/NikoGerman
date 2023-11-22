@@ -1,8 +1,9 @@
 ### Hi folks!
 ### currently enrolled at LMU Munich
-### major: statistics and data science
-### minor: economics minor
+###   major:   statistics and data science
+###   minor:   economics
 ### working on my R and Python skills
+###
 ### more to come!
 
 <!--
