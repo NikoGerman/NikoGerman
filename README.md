@@ -1,7 +1,4 @@
-### Hi folks!
-### currently enrolled at LMU Munich
-###   major:   statistics and data science
-###   minor:   economics
+###   Dies das Ananas
 
 
 <!--
